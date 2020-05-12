@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>istockphoto-655982708-612x612.jpg</filename>
+    <path>POTHOLES-PascalVOC-export/Annotations/istockphoto-655982708-612x612.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>612</width>
+        <height>407</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>80.24168461847835</xmin>
+        <ymin>261.52488397092236</ymin>
+        <xmax>318.70286671065816</xmax>
+        <ymax>371.76978193010603</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>306.12578600637715</xmin>
+        <ymin>204.64052254813058</ymin>
+        <xmax>509.87424469934876</xmax>
+        <ymax>286.6949366355429</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>93.82491519800979</xmin>
+        <ymin>190.04187541105307</ymin>
+        <xmax>208.02467626531674</xmax>
+        <ymax>215.71534479880816</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>212.55241979182722</xmin>
+        <ymin>169.4024349913305</ymin>
+        <xmax>287.51171393341554</xmax>
+        <ymax>199.10309990084897</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>225.44608604206758</ymin>
+        <xmax>39.90220809973831</xmax>
+        <ymax>283.30393679001753</ymax>
+    </bndbox>
+</object>
+</annotation>

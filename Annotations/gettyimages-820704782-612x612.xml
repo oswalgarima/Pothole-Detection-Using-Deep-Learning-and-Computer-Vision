@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>gettyimages-820704782-612x612.jpg</filename>
+    <path>Pothole-PascalVOC-export/Annotations/gettyimages-820704782-612x612.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>612</width>
+        <height>408</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>36.62573846495978</xmin>
+        <ymin>215.5802062383973</ymin>
+        <xmax>108.8000246557859</xmax>
+        <ymax>279.6752639619431</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>448.6653629718441</xmin>
+        <ymin>279.6752639619431</ymin>
+        <xmax>492.8316831683169</xmax>
+        <ymax>325.9960478225557</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>366.7960313853651</xmin>
+        <ymin>231.73862207998144</ymin>
+        <xmax>398.5742574257426</xmax>
+        <ymax>273.75051970529086</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>137.8851402962562</xmin>
+        <ymin>197.26732673267327</ymin>
+        <xmax>175.04950495049508</xmax>
+        <ymax>231.19999589070235</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>325.8613861386139</xmin>
+        <ymin>186.49504950495052</ymin>
+        <xmax>357.10100653620054</xmax>
+        <ymax>209.116835792466</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>417.96434821704827</xmin>
+        <ymin>178.9544677734375</ymin>
+        <xmax>483.13661722617576</xmax>
+        <ymax>225.81385727684096</ymax>
+    </bndbox>
+</object>
+</annotation>

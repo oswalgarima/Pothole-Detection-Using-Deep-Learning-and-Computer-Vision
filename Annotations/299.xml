@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>299.jpg</filename>
+    <path>Pothole-Pascal-PascalVOC-export/Annotations/299.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1200</width>
+        <height>1600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0</xmin>
+        <ymin>869.9764170545213</ymin>
+        <xmax>1056.2648908466313</xmax>
+        <ymax>1573.5225163453015</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>290.3074440381206</xmin>
+        <ymin>185.34281845633865</ymin>
+        <xmax>910.6382978723404</xmax>
+        <ymax>327.1867900875443</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>415.1301390735816</xmin>
+        <ymin>306.3829787234043</ymin>
+        <xmax>844.4445021609042</xmax>
+        <ymax>514.4208326407359</ymax>
+    </bndbox>
+</object>
+</annotation>

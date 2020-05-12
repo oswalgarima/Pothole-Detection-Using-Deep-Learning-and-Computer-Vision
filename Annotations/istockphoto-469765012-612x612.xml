@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>istockphoto-469765012-612x612.jpg</filename>
+    <path>POTHOLES-PascalVOC-export/Annotations/istockphoto-469765012-612x612.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>612</width>
+        <height>459</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>288.77396928503157</xmin>
+        <ymin>65.64894030956512</ymin>
+        <xmax>490.6037565190741</xmax>
+        <ymax>343.9787399616647</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>21.83777423615151</xmin>
+        <ymin>273.98937825953703</ymin>
+        <xmax>199.2526678531728</xmax>
+        <ymax>448.14895272762215</ymax>
+    </bndbox>
+</object>
+</annotation>

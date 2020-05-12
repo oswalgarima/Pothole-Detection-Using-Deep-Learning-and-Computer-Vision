@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>gettyimages-1002392022-612x612.jpg</filename>
+    <path>Pothole-PascalVOC-export/Annotations/gettyimages-1002392022-612x612.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>612</width>
+        <height>409</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.36320844248423595</xmin>
+        <ymin>174.6342390726304</ymin>
+        <xmax>119.9786424042563</xmax>
+        <ymax>246.26973833840276</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>223.12880555104786</xmin>
+        <ymin>182.8626266682642</ymin>
+        <xmax>285.1157270029674</xmax>
+        <ymax>227.39280787586463</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>274.4617358470883</xmin>
+        <ymin>249.657889247646</ymin>
+        <xmax>424.1020993195939</xmax>
+        <ymax>310.644901038627</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>198.43085314470514</xmin>
+        <ymin>291.7679705760888</ymin>
+        <xmax>272.5246364695382</xmax>
+        <ymax>342.59045578318944</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>332.09022988339206</xmin>
+        <ymin>342.59045578318944</ymin>
+        <xmax>425.0706305348201</xmax>
+        <ymax>409.00000000000006</ymax>
+    </bndbox>
+</object>
+</annotation>

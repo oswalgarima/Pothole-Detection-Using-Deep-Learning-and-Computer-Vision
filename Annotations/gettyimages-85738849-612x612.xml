@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>gettyimages-85738849-612x612.jpg</filename>
+    <path>Pothole-PascalVOC-export/Annotations/gettyimages-85738849-612x612.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>408</width>
+        <height>612</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>232.95762711864407</xmin>
+        <ymin>365.12544483249474</ymin>
+        <xmax>403.76438567597984</xmax>
+        <ymax>468.85425839181676</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>106.40850623179291</xmin>
+        <ymin>172.18984106031516</ymin>
+        <xmax>239.87288135593224</xmax>
+        <ymax>241.34238343319652</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>17.201716018935382</xmin>
+        <ymin>309.8033845545882</ymin>
+        <xmax>100.87628173828126</xmax>
+        <ymax>372.0406990697829</ymax>
+    </bndbox>
+</object><object>
+    <name>Pothole</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>131.30341093418963</xmin>
+        <ymin>423.9051058494439</ymin>
+        <xmax>228.80848512811178</xmax>
+        <ymax>526.2508369057866</ymax>
+    </bndbox>
+</object>
+</annotation>
